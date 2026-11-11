@@ -1,8 +1,27 @@
-Hello! I am a Teenager that's hobby's are programming (when I have free time)
-I am also a good tech enthusiast, and a good cook
+# Hi, I'm JustAKid
 
-The Programming languages that I mainly use is Rust, C, C++, TypeScript, Python, and Kotlin <--(no public projects yet)
+A teenager with a passion for programming, technology, and great food. I enjoy building things when I have free time and constantly learning new tools and ideas.
 
-I like Cats
+## About Me
 
-[![Support on SociaBuzz](https://img.shields.io/badge/Support%20on-SociaBuzz-ff69b4?style=for-the-badge)](https://sociabuzz.com)
+- Programming enthusiast and hobbyist developer
+- Interested in tech, systems, and software engineering
+- Enjoy cooking and experimenting in the kitchen
+- Cat lover
+
+## Languages I Use
+
+- Rust
+- C
+- C++
+- TypeScript
+- Python
+- Kotlin
+
+> I don't have public projects yet, but I'm always working on improving my skills.
+
+## Support Me
+
+If you want to support my work, you can help me out here:
+
+[![Support on SociaBuzz](https://img.shields.io/badge/Support%20on-SociaBuzz-FF5F9A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com)
