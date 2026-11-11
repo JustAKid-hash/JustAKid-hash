@@ -1,27 +1,15 @@
-# Hi, I'm JustAKid
+# Hey, I'm JustAKid 👋
 
-A teenager with a passion for programming, technology, and great food. I enjoy building things when I have free time and constantly learning new tools and ideas.
+I'm a teenager who enjoys programming whenever I get some free time. I like exploring how technology works, trying out new ideas, and, when I'm away from the screen, cooking something good. I also really like cats. 🐈
 
-## About Me
+## What I like to code with
 
-- Programming enthusiast and hobbyist developer
-- Interested in tech, systems, and software engineering
-- Enjoy cooking and experimenting in the kitchen
-- Cat lover
+I mostly use Rust, C, C++, TypeScript, and Python. I'm also learning and using Kotlin, but I haven't shared any Kotlin projects publicly yet.
 
-## Languages I Use
+I'm still figuring things out and building my skills one project at a time—more to come when I'm ready to share!
 
-- Rust
-- C
-- C++
-- TypeScript
-- Python
-- Kotlin
+## Support me
 
-> I don't have public projects yet, but I'm always working on improving my skills.
-
-## Support Me
-
-If you want to support my work, you can help me out here:
+If you'd like to support me, you can do so on SociaBuzz. Thanks! 💖
 
 [![Support on SociaBuzz](https://img.shields.io/badge/Support%20on-SociaBuzz-FF5F9A?style=for-the-badge&logo=sociabuzz&logoColor=white)](https://sociabuzz.com)
