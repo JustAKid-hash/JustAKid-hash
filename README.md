@@ -5,4 +5,4 @@ The Programming languages that I mainly use is Rust, C, C++, TypeScript, Python,
 
 I like Cats
 
-[![Support on SociaBuzz](https://shields.io)](https://sociabuzz.com)
+[![Support on SociaBuzz](https://img.shields.io/badge/Support%20on-SociaBuzz-ff69b4?style=for-the-badge)](https://sociabuzz.com)
